@@ -15,12 +15,12 @@ DESCRIPTION: This program will find a solution to the classic peg
 		The only way to move a peg is by jumping an adjacent peg
 		horizontally of vertically into a free hole.
 
-				xxx
-				xxx
-				xxx
+				   xxx
+				   xxx
+				   xxx
 				xxxxxxxxx
 				xxxxxxxxx
 				xxxxxxxxx
-				xxx
-				xxx
-				xxx
+				   xxx
+				   xxx
+				   xxx
