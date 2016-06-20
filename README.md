@@ -18,9 +18,9 @@ DESCRIPTION: This program will find a solution to the classic peg
 				xxx
 				xxx
 				xxx
-		 	     xxxxxxxxx
-		 	     xxxxxxxxx
-		 	     xxxxxxxxx
+				xxxxxxxxx
+				xxxxxxxxx
+				xxxxxxxxx
 				xxx
 				xxx
 				xxx
